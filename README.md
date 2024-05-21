@@ -1,1 +1,1 @@
-# MyAi
+This is my Ai personal assistant
